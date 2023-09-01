@@ -1,6 +1,6 @@
 - 👋 Hi i am Linus Obiora Madukaife
 - 👀 I’m a Master of Cybersecurity Degree holder
-- Backend Engineer (JavaScript, Node.js, Express.js)
+- Backend Engineer (JavaScript, TypeScript, Node.js, Express.js)
 - AWS Cloud Developer Certified
 - Cisco Cyber Analyst/ CyboerOps certified
 - 🌱 I’m also mastering DevSecOps
